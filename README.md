@@ -1,3 +1,4 @@
-![image](https://github.com/tutisnn/Spotify_Clone/assets/139488248/90a32003-7bdd-4e46-9de6-2e706a4b902a)
-![image](https://github.com/tutisnn/Spotify_Clone/assets/139488248/76632520-6028-4d14-9d28-b99bd22c53a9)
+<img width="1080" alt="image" src="https://github.com/tutisnn/Spotify_Clone/assets/139488248/3d415ccc-702b-425d-9493-db1c7098a0ec">
+<img width="1080" alt="image" src="https://github.com/tutisnn/Spotify_Clone/assets/139488248/6b1a5fbe-41ee-435e-a02b-809d745d3f7a">
+
 
